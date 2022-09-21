@@ -7,7 +7,7 @@ public class hello {
         System.out.println("hii!! What is your name? ");
         name=s.next();
         
-        System.out.println("hello "+name+" how are you?");
+        System.out.println("hello "+name+" have a good day!");
 
     }
 }
